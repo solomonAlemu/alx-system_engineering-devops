@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /alx-system_engineering-devops/0x02-shell_redirections/comment /etc/passwd
+echo -e "##\n# User Database\n#\n# Note that this file is consulted directly only when the system is running\n# in single-user mode. At other times this information is provided by\n# Open Directory.\n#\n# See the opendirectoryd(8) man page for additional information about\n# Open Directory.\n##"| cat -  /etc/passwd

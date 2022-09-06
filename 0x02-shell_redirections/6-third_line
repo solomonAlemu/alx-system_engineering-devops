@@ -1,0 +1,3 @@
+#!/bin/bash
+cat 0x02-shell_redirections/iacta |head -3 | tail -1
+

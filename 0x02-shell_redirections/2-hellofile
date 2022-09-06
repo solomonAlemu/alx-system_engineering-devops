@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 0x02-shell_redirections/comment /etc/passwd
+cat comment /etc/passwd

@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /alx-system_engineering-devops/0x02-shell_redirections/comment1  /etc/passwd cat /alx-system_engineering-devops/0x02-shell_redirections/comment2  /etc/hosts
